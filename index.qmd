@@ -14,7 +14,7 @@ about:
 
 Hi! I am a college student, graduating in International Affairs with a minor in Business Administration at John Cabot University. I have a passion for international organizations and whatever concerns politics, from all the branches of international law to current events. On this website, you'll find a showcase of my projects, demonstrating my ability in programming, data analysis, and visualization, as well as societal issues, visualize data trends, and propose actionable recommendations for policy improvements.
 
-You can also check out my <a href="/cv/bogdan-popescu-cv.pdf" target="_blank">CV</a>.
+You can also check out my <a href="/cv/solidoro-domenico-cv.pdf" target="_blank">CV</a>.
 
 
 
