@@ -2,6 +2,6 @@
 title: "Portfolio"
 ---
 
-## Portfolio
+## Final project
 
-Portfolio You can check out some of the projects that I conducted.
+You can check out some of the projects that I conducted.
