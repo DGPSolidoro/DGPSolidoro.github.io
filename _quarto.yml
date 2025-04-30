@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
+  title: "Domenico G. P. Solidoro"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - portfolio.qmd
+      - cv.qmd
 
 format:
   html:

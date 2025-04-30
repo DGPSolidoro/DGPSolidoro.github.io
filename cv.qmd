@@ -1,0 +1,5 @@
+---
+title: "Curriculum Vitae"
+---
+
+By clicking here, you can also check out my <a href="/cv/solidoro-domenico-cv.pdf" target="_blank">CV</a>.
