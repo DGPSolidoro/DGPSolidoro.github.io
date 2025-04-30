@@ -1,7 +1,5 @@
 ---
 title: "Portfolio"
-format: html
-editor: visual
 ---
 
 ## Portfolio
