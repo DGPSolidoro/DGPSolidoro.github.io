@@ -8,11 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: Portfolio
-        menu:
-          - href: portfolio.qmd
-            text: Overview
-          - href: report.qmd
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: report.qmd
       - href: cv.qmd
         text: CV
 
