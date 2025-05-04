@@ -13,7 +13,6 @@ website:
           - href: portfolio.qmd
             text: Overview
           - href: report.qmd
-            text: Aggression Report
       - href: cv.qmd
         text: CV
 
