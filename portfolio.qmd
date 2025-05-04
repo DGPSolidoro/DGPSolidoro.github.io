@@ -2,6 +2,10 @@
 title: "Portfolio"
 ---
 
-## Final project
+# Final projects
 
 You can check out some of the projects that I conducted.
+
+## The Aggressiveness of Two of the Most Influential Leaders of U.S. Politics: Trump vs. Biden
+
+By clicking here, you can check out my <a href="/report/report.pdf" target="_blank">CV</a>.

@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - portfolio.qmd
+        - report.qmd
       - cv.qmd
 
 format:
