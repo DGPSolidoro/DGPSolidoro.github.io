@@ -8,9 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - portfolio.qmd
-        - report.qmd
-      - cv.qmd
+      - text: Portfolio
+        menu:
+          - href: portfolio.qmd
+            text: Overview
+          - href: report.qmd
+            text: Aggression Report
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
