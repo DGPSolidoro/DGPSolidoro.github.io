@@ -6,4 +6,4 @@ You can check out some of the projects that I conducted.
 
 ## The Aggressiveness of Two of the Most Influential Leaders of U.S. Politics: Trump vs. Biden
 
-Click here to read the full <a href="report/report.html" target="_blank" rel="noopener">report</a>.
+Click here to read the full <a href="report/report.html" target="_blank" rel="noopener">report</a> with relevant <a href="project_presentation/project_presentation.html" target="_blank" rel="noopener">presentation</a>
