@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-By clicking here, you can also check out my <a href="/cv/solidoro-domenico-cv.pdf" target="_blank">CV</a>.
+By clicking here, you will be able to check out my <a href="/cv/solidoro-domenico-cv.pdf" target="_blank">CV</a>.
