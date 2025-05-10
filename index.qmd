@@ -12,7 +12,17 @@ about:
       href: https://www.linkedin.com/in/domenico-gabriele-pio-solidoro-b3414b1a1/
 ---
 
-Hi! I am a college student, graduating in International Affairs with a minor in Business Administration at John Cabot University. I have a passion for international organizations and whatever concerns politics, from all the branches of international law to current events. On this website, you'll find a showcase of my projects, demonstrating my ability in programming, data analysis, and visualization, as well as societal issues, visualize data trends, and propose actionable recommendations for policy improvements.
+Welcome!
+
+I am currently pursuing a degree in International Affairs with a minor in Business Administration at John Cabot University in Rome, and I expect to graduate in 2026.
+
+My passion for global affairs began early in life during my time abroad as a military family child on a NATO base. There, I significantly improved my English skills, officially assessed at Level 5 (native speaker level) by DoDEA. That formative experience sparked my deep interest in international relations and the work of global organizations that promote trust and security around the world.
+
+In 2023, I graduated from an *Italian Linguistic Liceo* with top honors (100/100), having studied four languages: Italian, English, Spanish, and French. I am also currently a beginner student of Russian.
+
+At JCU, I have taken a wide range of courses that combine global issues with technical skills. One highlight was **Computational Methods for the Social Sciences**, where I learned programming, data analysis, and data visualization using tools such as R and Python. In this course, I conducted an independent research project that applied these skills to global political topics. You can explore my report and presentation in the Portfolio section.
+
+Please feel free to also check out my Curriculum Vitae for more details on my background and working experiences.
 
 
 
